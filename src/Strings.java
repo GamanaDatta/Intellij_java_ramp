@@ -23,7 +23,11 @@ public class Strings {
         String z = "G A M A N";
         System.out.println(z.replace(" ","_"));
         System.out.println(z.indexOf('A'));
-
+        //printing string array
+        String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+        for (int x = 0; x < cars.length; x++) {
+            System.out.println(cars[x]);
+        }
     }
 
 }
