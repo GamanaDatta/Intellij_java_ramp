@@ -19,7 +19,7 @@ public class Car
 }
 
 // Main class
-public class Main {
+/*public class Main {
     public static void main(String[] args) {
         // Creating an object of Car class
         Car myCar = new Car("Toyota", 120);
@@ -27,5 +27,6 @@ public class Main {
         // Calling method on object
         myCar.display();
     }
+    }
+    */
 
-}
